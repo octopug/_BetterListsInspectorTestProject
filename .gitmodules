@@ -1,4 +1,4 @@
 [submodule "unity_project/Assets/Scripts/BetterListsInspector"]
 	path = unity_project/Assets/Scripts/BetterListsInspector
-	url = https://github.com/octopug/BetterListsInspector.git
+	url = https://github.com/octopug/BetterListsInspector
 	branch = master
